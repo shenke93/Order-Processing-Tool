@@ -1,7 +1,5 @@
 # Order-Processing-Tool
 
-###Presention
-
 A fastfood seller offers 5 sandwiches with the following composition:
 
 	Fromage 3€
